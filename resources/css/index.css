@@ -1,0 +1,42 @@
+.banner {
+    background-color: #001659;
+    color: #ffcfcf;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+#picture {
+    height: 425px;
+    width: 315px;
+}
+
+#secre {
+    color: darkred;
+    font-size: 55px;
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.under {
+    text-align: center;
+    align-content: center;
+}
+
+div.ha {
+    text-align: center;
+  }
+  
+  ul.list {
+    display: inline-block;
+    text-align: left;
+    padding: 0%;
+  }
